@@ -62,3 +62,6 @@ print(f"Peso en kg: {peso:.2f}")
 print(f"Estatura en metros: {estatura}")
 print(f"Tu IMC es: {indice_masa_corporal:.2f}")
 print(f"Clasificación: {clasificacion}")
+
+# GRACIAS POR ESTE CURSO HASTA AHORITA ME HA GUSTADO MUCHO TENGO MUY POCA EXPERIENCIA EN PROGRAMACION Y CON ESTE BOOTCAM SE HAN RESUELTO MIS DUDAS 
+# Y HE APRENDIO MUCHO. 
