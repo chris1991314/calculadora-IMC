@@ -1,8 +1,8 @@
 # Desarrollaremos una calculadora de indice de masa corporal 
 # IMC = peso en kilograamos / estatura en metros al cuadrado
 
-# creamos uan funcion para que no queden datos vacios udando la variable obtener_datos, 
-# usamos el bulce while permitiendonos ingresar repetifamente datos se utiliza el 'try' , 'excep' para manejar posibles errores de entrada. 
+# Creamos una funcion para que no queden datos vacios usando la variable obtener_datos, 
+# Usamos el bulce while permitiendonos ingresar repetifamente datos se utiliza el 'try' , 'excep' para manejar posibles errores de entrada. 
 # por ejemplo si el usuario en lugar de poner un dato str pone un int o float
 def obtener_datos (mensaje, tipo = str, valida = lambda x: x.strip() != ""):
     while  True:
